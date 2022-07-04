@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex200027Fr
 - 👀 I’m interested in crypto/web3 development
-- 🌱 I’m currently learning solidity/ javascript
+- 🌱 I’m currently learning HTML
 - 💞️ No projects yet, I'm still in a learning phase
 - 📫 Social Medias coming soon...
 
